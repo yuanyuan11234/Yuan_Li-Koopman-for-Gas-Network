@@ -1,4 +1,4 @@
-# Koopman Operator-based Gas Network Model for Optimal Dispatch
+# Dataset for Koopman-based Gas Network Analysis
 Welcome to the GitHub repository for the Koopman-based analysis of gas networks. This repository includes datasets and supplementary materials associated with the related research paper.
 
 ## Authors
