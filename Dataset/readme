@@ -6,15 +6,15 @@ This repository contains datasets used for analyzing the gas and electrical netw
 
 ### 20nodes.xlsx
 
-This file contains data for a 20-node Belgian gas network. The dataset includes parameters for pipelines, nodes, gas sources, and compressors. This data is crucial for simulating and analyzing the network dynamics under various operating conditions.
+This file contains data for a 20-node modefied Belgian gas network. The dataset includes parameters for pipelines, nodes, gas sources, and compressors. This data is crucial for simulating and analyzing the network dynamics under various operating conditions.
 
 ### testdata_30bus.xlsx
 
-This file includes data for a 30-node electrical network. The dataset encompasses details about the electrical buses, branches, generators, cost parameters of generators, coupled electric-heating devices, and load data. It is designed to facilitate the analysis of electrical network operations and planning, including economic considerations.
+This file includes data for a 30-node electrical network. The dataset encompasses details about the electrical buses, branches, generators, cost parameters of generators, coupled electric-gas devices, and load data. It is designed to facilitate the analysis of electrical network operations, including economic considerations.
 
 ### steady state
 
-Contains initial steady-state conditions for the gas network, including the start and end pressures and the flow in each pipeline. This dataset is essential for establishing baseline conditions for dynamic simulations and analyses of the gas network.
+Contains initial steady-state conditions for the gas network, including the inlet and outlet pressures and the flow in each pipeline. This dataset is essential for establishing baseline conditions for dynamic simulations and analyses of the gas network.
 
 ## Usage
 
