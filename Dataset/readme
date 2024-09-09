@@ -1,1 +1,25 @@
+# Dataset for Koopman-based Gas Network Analysis
 
+This repository contains datasets used for analyzing the gas and electrical networks using the Koopman-based global linearization model. Below are the descriptions of the datasets available in this repository.
+
+## Data Files
+
+### 20nodes.xlsx
+
+This file contains data for a 20-node Belgian gas network. The dataset includes parameters for pipelines, nodes, gas sources, and compressors. This data is crucial for simulating and analyzing the network dynamics under various operating conditions.
+
+### testdata_30bus.xlsx
+
+This file includes data for a 30-node electrical network. The dataset encompasses details about the electrical buses, branches, generators, cost parameters of generators, coupled electric-heating devices, and load data. It is designed to facilitate the analysis of electrical network operations and planning, including economic considerations.
+
+### steady state
+
+Contains initial steady-state conditions for the gas network, including the start and end pressures and the flow in each pipeline. This dataset is essential for establishing baseline conditions for dynamic simulations and analyses of the gas network.
+
+## Usage
+
+The data provided in this repository can be utilized for academic and research purposes, offering insights into the operation and analysis of integrated energy systems. Researchers and engineers can use these datasets to model energy flows, optimize network operations, and explore scenarios for infrastructure development.
+
+## Contribution
+
+Contributions to this dataset are welcome. If you have suggestions or additional data that could enhance the analysis, please open an issue or submit a pull request.
